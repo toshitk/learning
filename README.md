@@ -1,5 +1,5 @@
-# learning
-my learning
+# Docs
+Docs
 
 ## Directory Structure
 ```
